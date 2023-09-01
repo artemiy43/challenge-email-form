@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/artemiy43/challenge-email-form)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/artemiy43/challenge-email-form]
+- Live Site URL: [https://challenge-email-form.vercel.app/]
 
 ## My process
 
